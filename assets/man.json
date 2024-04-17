@@ -1,0 +1,713 @@
+{
+	"textures": [
+		{
+			"image": "man.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1723,
+				"h": 512
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "__civilian_man_05_die_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 137,
+						"w": 200,
+						"h": 283
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 200,
+						"h": 283
+					}
+				},
+				{
+					"filename": "__civilian_man_05_die_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 161,
+						"w": 180,
+						"h": 225
+					},
+					"frame": {
+						"x": 1,
+						"y": 286,
+						"w": 180,
+						"h": 225
+					}
+				},
+				{
+					"filename": "__civilian_man_05_die_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 146,
+						"w": 216,
+						"h": 221
+					},
+					"frame": {
+						"x": 183,
+						"y": 286,
+						"w": 216,
+						"h": 221
+					}
+				},
+				{
+					"filename": "__civilian_man_05_run_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 127,
+						"w": 136,
+						"h": 229
+					},
+					"frame": {
+						"x": 203,
+						"y": 1,
+						"w": 136,
+						"h": 229
+					}
+				},
+				{
+					"filename": "__civilian_man_05_run_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 134,
+						"w": 138,
+						"h": 226
+					},
+					"frame": {
+						"x": 341,
+						"y": 1,
+						"w": 138,
+						"h": 226
+					}
+				},
+				{
+					"filename": "__civilian_man_05_die_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 166,
+						"w": 179,
+						"h": 182
+					},
+					"frame": {
+						"x": 401,
+						"y": 229,
+						"w": 179,
+						"h": 182
+					}
+				},
+				{
+					"filename": "__civilian_man_05_run_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 136,
+						"w": 144,
+						"h": 182
+					},
+					"frame": {
+						"x": 481,
+						"y": 1,
+						"w": 144,
+						"h": 182
+					}
+				},
+				{
+					"filename": "__civilian_man_05_run_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 150,
+						"w": 148,
+						"h": 175
+					},
+					"frame": {
+						"x": 582,
+						"y": 185,
+						"w": 148,
+						"h": 175
+					}
+				},
+				{
+					"filename": "__civilian_man_05_run_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 149,
+						"w": 140,
+						"h": 174
+					},
+					"frame": {
+						"x": 627,
+						"y": 1,
+						"w": 140,
+						"h": 174
+					}
+				},
+				{
+					"filename": "__civilian_man_05_run_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 171,
+						"w": 150,
+						"h": 141
+					},
+					"frame": {
+						"x": 582,
+						"y": 362,
+						"w": 150,
+						"h": 141
+					}
+				},
+				{
+					"filename": "__civilian_man_05_run_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 152,
+						"w": 146,
+						"h": 172
+					},
+					"frame": {
+						"x": 732,
+						"y": 177,
+						"w": 146,
+						"h": 172
+					}
+				},
+				{
+					"filename": "__civilian_man_05_run_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 179,
+						"w": 147,
+						"h": 133
+					},
+					"frame": {
+						"x": 734,
+						"y": 351,
+						"w": 147,
+						"h": 133
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 195,
+						"w": 164,
+						"h": 120
+					},
+					"frame": {
+						"x": 769,
+						"y": 1,
+						"w": 164,
+						"h": 120
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 195,
+						"w": 164,
+						"h": 120
+					},
+					"frame": {
+						"x": 880,
+						"y": 123,
+						"w": 164,
+						"h": 120
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 194,
+						"w": 159,
+						"h": 120
+					},
+					"frame": {
+						"x": 935,
+						"y": 1,
+						"w": 159,
+						"h": 120
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 194,
+						"w": 159,
+						"h": 120
+					},
+					"frame": {
+						"x": 883,
+						"y": 245,
+						"w": 159,
+						"h": 120
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 193,
+						"w": 153,
+						"h": 120
+					},
+					"frame": {
+						"x": 883,
+						"y": 367,
+						"w": 153,
+						"h": 120
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 193,
+						"w": 153,
+						"h": 120
+					},
+					"frame": {
+						"x": 1038,
+						"y": 367,
+						"w": 153,
+						"h": 120
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 192,
+						"w": 149,
+						"h": 120
+					},
+					"frame": {
+						"x": 1044,
+						"y": 245,
+						"w": 149,
+						"h": 120
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 192,
+						"w": 149,
+						"h": 120
+					},
+					"frame": {
+						"x": 1046,
+						"y": 123,
+						"w": 149,
+						"h": 120
+					}
+				},
+				{
+					"filename": "__civilian_man_05_die_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 192,
+						"w": 147,
+						"h": 120
+					},
+					"frame": {
+						"x": 1096,
+						"y": 1,
+						"w": 147,
+						"h": 120
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 192,
+						"w": 147,
+						"h": 120
+					},
+					"frame": {
+						"x": 1193,
+						"y": 367,
+						"w": 147,
+						"h": 120
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 196,
+						"w": 166,
+						"h": 119
+					},
+					"frame": {
+						"x": 1195,
+						"y": 245,
+						"w": 166,
+						"h": 119
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 195,
+						"w": 162,
+						"h": 119
+					},
+					"frame": {
+						"x": 1197,
+						"y": 123,
+						"w": 162,
+						"h": 119
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 195,
+						"w": 162,
+						"h": 119
+					},
+					"frame": {
+						"x": 1245,
+						"y": 1,
+						"w": 162,
+						"h": 119
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 195,
+						"w": 161,
+						"h": 119
+					},
+					"frame": {
+						"x": 1361,
+						"y": 122,
+						"w": 161,
+						"h": 119
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 195,
+						"w": 161,
+						"h": 119
+					},
+					"frame": {
+						"x": 1409,
+						"y": 1,
+						"w": 161,
+						"h": 119
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 194,
+						"w": 157,
+						"h": 119
+					},
+					"frame": {
+						"x": 1342,
+						"y": 366,
+						"w": 157,
+						"h": 119
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 194,
+						"w": 157,
+						"h": 119
+					},
+					"frame": {
+						"x": 1363,
+						"y": 243,
+						"w": 157,
+						"h": 119
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 194,
+						"w": 155,
+						"h": 119
+					},
+					"frame": {
+						"x": 1501,
+						"y": 364,
+						"w": 155,
+						"h": 119
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 194,
+						"w": 155,
+						"h": 119
+					},
+					"frame": {
+						"x": 1522,
+						"y": 243,
+						"w": 155,
+						"h": 119
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 193,
+						"w": 150,
+						"h": 119
+					},
+					"frame": {
+						"x": 1524,
+						"y": 122,
+						"w": 150,
+						"h": 119
+					}
+				},
+				{
+					"filename": "__civilian_man_05_idle_018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 259,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 193,
+						"w": 150,
+						"h": 119
+					},
+					"frame": {
+						"x": 1572,
+						"y": 1,
+						"w": 150,
+						"h": 119
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:44bebc3424ecbf4fb49e0ac2e5e62673:39705113e2bf8cf14f3101c149a05579:7cb16ae2a7812a83bde2d0f7d63f713f$"
+	}
+}
