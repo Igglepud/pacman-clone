@@ -7,7 +7,7 @@ class Coin {
     );
 
     this.sprite.parentObject = this;
-
+    //this.sprite.preFX.addShine(Phaser.Math.FloatBetween(0.5, 1));
   }
   collect() {
     scene.coins.remove(this.sprite);
